@@ -30,11 +30,5 @@
 
 ---
 
-### 📊 Статистика GitHub:  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ваш_ник&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_ник&layout=compact&theme=radical)  
-
----
 
 ⭐ **Спасибо за визит!** Хорошего дня! 😊  
