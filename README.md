@@ -9,7 +9,7 @@
 
 ---
 
-### 🛠️ Мой стек:  
+## 🛠️ Мой стек:  
 - **Frontend**:  
   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)  
   ![Effector](https://img.shields.io/badge/-Effector-6D83F2?logo=effector&logoColor=white)  
@@ -23,7 +23,7 @@
 
 ---
 
-### 📬 Контакты:  
+## 📬 Контакты:  
 - **Telegram**: [@DevBukia](https://t.me/DevBukia) ✈️  
 - **Email**: bookiainc@gmail.com 📧  
 
