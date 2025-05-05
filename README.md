@@ -1,4 +1,4 @@
-# 🚀 Привет, я [Ваше Имя]! 👋  
+# 🚀 Привет, я Георгий Букиа! 👋  
 
 **Frontend Developer** | **React** ⚛️ | **Effector** 🧠 | **TypeScript** 📘  
 
