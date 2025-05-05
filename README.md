@@ -3,6 +3,7 @@
 Вот уже почти 5 лет создаю приложения на React, за это время успел поработать в трех крупных компаниях,
 подробнее про мой путь и резюме можно почитать здесь - [bookiainc.ru](https://bookiainc.ru/)
 
+<br>
 
 #### 🌐 Основное : 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -58,9 +59,9 @@
 
 #### 🔐 Аутентификация :
 ![Keycloak](https://img.shields.io/badge/Keycloak-010101?style=for-the-badge&logo=keycloak&logoColor=white)
-![Refresh Tokens](https://img.shields.io/badge/Refresh_Tokens-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![Access Tokens](https://img.shields.io/badge/Access_Tokens-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
 <br>
 
 ## 📬 Контакты:  
